@@ -24,5 +24,7 @@ BaiduBaieCrawl
 
 一个词条占一行
 
-命令：python　Main.py task_name data_name.dat
-data_name.dat不加路径，保存到data文件夹中
+commond：python　Main.py task_name data_name.dat
+
+data_name.dat不加路径
+
