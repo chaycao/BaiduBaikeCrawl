@@ -20,11 +20,11 @@ BaiduBaieCrawl
 阿桑  
 
 一个词条占一行  
-'''Shell
+```Shell
 python　Main.py -t -d  
 -t:task name  
 -d:the name of data which in data folder  
 
 for example:
 python Main.py test test.dat
-'''
+```

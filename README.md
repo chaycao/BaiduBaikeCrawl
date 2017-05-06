@@ -22,9 +22,10 @@ BaiduBaieCrawl
 一个词条占一行  
 ```Shell
 python　Main.py -t -d  
--t:task name  
--d:the name of data which in data folder  
-
+-t:The name of task   
+-d:The name of data which in data folder  
+```
 for example:
+```Shell
 python Main.py test test.dat
 ```
