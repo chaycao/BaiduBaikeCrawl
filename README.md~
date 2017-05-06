@@ -24,6 +24,7 @@ BaiduBaieCrawl
 python　Main.py -t -d  
 -t:task name  
 -d:the name of data which in data folder  
-'''
-data_name.dat不加路径  
 
+for example:
+python Main.py test test.dat
+'''
